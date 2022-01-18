@@ -32,4 +32,4 @@ pip install pycrypto
 
 ## 其他
 
-参看我的博客[腾讯课堂缓存视频破解](https://1eq066.coding-pages.com/post/tencent_edu/)
+参看我的博客[腾讯课堂缓存视频破解](https://monkeyjerry.top/post/tencent_edu/)
